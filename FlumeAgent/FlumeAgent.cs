@@ -5,6 +5,7 @@ using FlumeAgent;
 
 namespace FlumeAgent
 {
+    
     public  class FlumeAgent
     {
         public static readonly FlumeAgent Instance=new FlumeAgent();
